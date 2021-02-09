@@ -65,7 +65,7 @@ body{
 .container2{
     width: 1000px;
     margin: 0 auto;
-    height: 500px;
+    height: 710px;
     margin-top: 2px;
     border-radius: 5px;
     background: #fff;
@@ -115,5 +115,66 @@ body{
 .list-item2{
     list-style: none;
     margin-bottom: 17px;
+}
+
+   /* Box4 */
+.box4{
+    display: inline-block;
+    font-family: sans-serif;
+    width: 90px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 5px;
+    margin-left: 2px;
     margin-top: 5px;
+    border: solid 2px;
+    border-radius: 5px;
+    text-align: center;
+    background:darkorchid;
+    color: #fff;
+}
+
+   /* Box5 */
+.box5{
+    display: inline-block;
+    font-family: sans-serif;
+    width: 90px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 5px;
+    margin-left: 2px;
+    margin-top: 5px;
+    border: solid 2px;
+    border-radius: 5px;
+    text-align: center;
+    background:forestgreen;
+    color: #fff;
+}
+
+/* Box6 */
+.box6{
+    display: inline-block;
+    font-family: sans-serif;
+    width: 90px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 5px;
+    margin-left: 2px;
+    margin-top: 5px;
+    border: solid 2px;
+    border-radius: 5px;
+    text-align: center;
+    background:goldenrod;
+    color: #fff;
+}
+
+   /* Icon2 */
+.icon2{
+    display: inline-block;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    color: red;
+    border: solid 1px;
+    border-radius: 50%;
 }
