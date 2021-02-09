@@ -3,13 +3,14 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+     
 body{
     background: #ADD8E6;
     font-family: 'Alfa Slab One', cursive;
     font-size: 16px;
 }
 
+     /* Main-Header */
 .main-header{
     margin-top: 5px;
     margin-bottom: 50px;
@@ -17,6 +18,29 @@ body{
     background: #fff;
 }
 
+    /* Logo */
 .logo{
     vertical-align: middle;
+}
+
+    /* Container */
+.container{
+    font-family: sans-serif;
+    width: 1000px;
+    margin: 0 auto;
+    height: 60px;
+    background: #fff;
+}
+
+    /* Box1 */
+.box1{
+    display: inline-block;
+    width: 90px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 5px;
+    margin-left: 70px;
+    text-align: center;
+    background: dodgerblue;
+
 }
