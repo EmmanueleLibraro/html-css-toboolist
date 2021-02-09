@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
-     
+     /* Body */
 body{
     background: #ADD8E6;
     font-family: 'Alfa Slab One', cursive;
@@ -29,6 +29,7 @@ body{
     width: 1000px;
     margin: 0 auto;
     height: 60px;
+    border-radius: 5px;
     background: #fff;
 }
 
@@ -45,7 +46,7 @@ body{
     background: dodgerblue;
     color: white;
 }
-
+     /* Box2 */
 .box2{
     display: inline-block;
     width: 90px;
@@ -59,4 +60,26 @@ body{
     background: #fff;
     color: grey;
 }
+ 
+   /* Container2 */
+.container2{
+    width: 1000px;
+    margin: 0 auto;
+    height: 500px;
+    margin-top: 2px;
+    background: #fff;
+}
+ 
+    /* Task1 */
+.task1{
+    margin-left: 70px;
+    padding-top: 30px;
+}
+ 
+   /* List-item */
+.list-item{
+    list-style: none;
+    margin-top: 2px;
+}
     
+
